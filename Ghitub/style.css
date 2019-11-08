@@ -33,11 +33,11 @@ body {background-image: url(images/marble.jpg);
 	margin: 4%;
 }
 
-p { font-size : 50px; /*paragraphes de 50 pixels */
+p {
 	font-family: Courier New, monospace;
 }
 
-ul { font-size : 50px;
+ul {
 	font-family: Courier New, monospace;}
 
 .liens{
