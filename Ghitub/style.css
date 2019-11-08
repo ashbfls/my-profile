@@ -1,0 +1,48 @@
+body {background-image: url(images/marble.jpg);
+  background-attachment: fixed;
+}
+
+ #monProfil { background-color: #d4d0c2;
+  	color: white;
+	font-size: 200px;
+	font-family: amatic SC;
+	font-weight :lighter;
+	letter-spacing: 10px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+	
+}
+.presentation{
+	text-align: center;
+	margin: 2%;
+	border: 20px solid white ; 
+	 border-radius: 30px;
+
+}
+
+ .titre {
+ 	background-color: #d4d0c2;
+  	color: grey;
+	font-size: 100px;
+	font-family: amatic SC;
+	font-weight : lighter;
+	box-shadow: 0px 10px 20px rgba(0,0,0,0.3);
+	 margin: 2%;
+	}
+
+ .para{
+	margin: 4%;
+}
+
+p { font-size : 50px; /*paragraphes de 50 pixels */
+	font-family: Courier New, monospace;
+}
+
+ul { font-size : 50px;
+	font-family: Courier New, monospace;}
+
+.liens{
+	margin: 3%;
+}
+
+
+
